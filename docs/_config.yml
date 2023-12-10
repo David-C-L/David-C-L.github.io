@@ -28,7 +28,7 @@ twitter_username: NA
 github_username:  David-C-L
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
