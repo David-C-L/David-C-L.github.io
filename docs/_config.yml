@@ -22,7 +22,7 @@ title: David Conor Loughlin
 email: david.loughlin19@imperial.ac.uk
 description: # >- this means to ignore newlines until "baseurl:"
   Data systems and databases researcher; current PhD student at Imperial College London.
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dcloughlin
 github_username:  David-C-L
